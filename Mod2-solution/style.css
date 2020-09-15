@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body{
-background-color:#000000;
+background-color:#ffffff;
 }
 
 
@@ -10,7 +10,7 @@ h1 {
 	font-size: 27px;
 	font-family: Georgia serif;
 	text-align: center;
-	color: rgb(0, 0, 0);
+	color: #000000;
 	margin-bottom: 30px;
         
 }
@@ -23,7 +23,7 @@ p {
 }
 
 .section { 
-	background-color: rgb(150, 150, 150);
+	background-color: #969696;
    	border: 2px solid black;
    	margin-top: 20px; 
    	margin-right: 20px; 
@@ -42,16 +42,16 @@ float: right; top :0; right: 0; margin: 0;
 	position: absolute;
 }
 #pp1 {
-	background-color: rgb(250, 150, 150);
-	color: rgb(0, 0, 0);
+	background-color: #fa9696;
+	color: #000000;
 }
 #pp2 {
-	background-color: rgb(250, 0, 0);
-	color: rgb(250, 250, 250);
+	background-color: #fa0000;
+	color: #fafafa;
 }
 #pp3 {
-	background-color: rgb(200, 200, 100);
-	color: rgb(0, 0, 0);
+	background-color: #c8c864;
+	color: #000000;
 }
 }
 
